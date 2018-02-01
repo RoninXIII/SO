@@ -1,11 +1,6 @@
 import java.util.*;
-import java.util.List;
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+
+
 import java.io.*;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
@@ -15,7 +10,7 @@ import java.util.concurrent.RecursiveAction;
  * The expressions must be written in a text file.
  * 
  * 
- * @author Mario
+ * @author mariol96
  *
  */
 public class DataFlowMachine { 
